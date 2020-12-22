@@ -10,9 +10,7 @@ I'm junior software engineer
 -->
 
 - :dart: I’m currently learning Vue.js and also trying to improve my skills on web development.
-- :email: 
+- :email: neslinbaydar95@gmail.com
 
-
-📕 **Latest Blog Posts**
 
 
