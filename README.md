@@ -9,7 +9,7 @@ I have recently received a bachelor's degree in computer engineering from Kocael
 <a href="https://www.instagram.com/koative/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 -->
 
-- :dart: I’m currently learning Vue.js and also trying to improve my skills on web development.
+- :dart: My goal is to become a frontend engineer so I’m trying to improve my skills on web development.
 - :email: neslinbaydar95@gmail.com
 
 
