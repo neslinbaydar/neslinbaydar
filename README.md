@@ -11,7 +11,7 @@ I received my bachelor's degree in computer engineering from Kocaeli University.
 
 - :dart: I’m currently learning JavaScript,Angular etc.
 - :email: neslinbaydar95@gmail.com
-- :woman technologist: https://codepen.io/baydarn
+- :👩‍💻: https://codepen.io/baydarn
 
 
 
