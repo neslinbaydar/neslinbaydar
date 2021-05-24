@@ -9,7 +9,7 @@ I received my bachelor's degree in computer engineering from Kocaeli University.
 <a href="https://www.instagram.com/koative/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 -->
 
-- :dart: I’m currently learning JavaScript,Angular etc.
+- :dart: I’m currently learning Angular,NgRx,RxJS etc.
 - :email: neslinbaydar95@gmail.com
 - 👩‍💻 https://codepen.io/neslinbaydar
 
