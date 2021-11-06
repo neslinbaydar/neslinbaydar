@@ -10,7 +10,7 @@ A computer engineer who wants to be successful in the frontend field.
 -->
 
 - :dart: I’m currently learning technologies related to the frontend development. 
-- :email: neslinbaydar95@gmail.com
+- :email: baydarneslin@gmail.com
 - 👩‍💻 https://codepen.io/neslinbaydar
 
 
