@@ -11,7 +11,7 @@ Also, I'm studying for my master's in computer science at Johannes Kepler Univer
 <a href="https://www.instagram.com/koative/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 -->
 
-- :dart: I’m currently learning technologies related to the frontend development. 
+- :dart: I’m currently studying Computer Science and looking for suitable job opportunities in Austria during my master studies.
 - :email: baydarneslin@gmail.com
 - 👩‍💻 https://codepen.io/neslinbaydar
 
